@@ -155,3 +155,10 @@ header h2 {
 	font-style: italic;
 	color: black;
 }
+
+footer {
+	background-color: #222222;
+	text-align: center;
+	padding: 1em;
+	text-decoration: underline;
+}
