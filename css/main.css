@@ -24,9 +24,27 @@ header {
 	width: 65px;
 	left: calc(50% - 32.5px);
 }
-
-ol {
+nav li {
 	display: inline;
+	background-color: #222222;
+	width: 50%;
+	float: left;
+	padding: .5em;
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+}
+
+nav ol {
+	margin: 0;
+	padding: 0;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	overflow: hidden;
+}
+
+a {
+	color: white;
+	text-decoration: none;
 }
 
 header h1 {
