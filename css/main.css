@@ -50,10 +50,35 @@ a {
 header h1 {
 	position: relative;
 	margin: 0;
+	text-shadow: 1px 1px 5px black;
 }
 
 header h2 {
 	position: relative;
 	font-size: 13px;
 	margin: 0;
+	text-shadow: 1px 1px 5px black;
 }
+
+.paragraph {
+	margin: 1em .5em;
+}
+
+.banner {
+	position: relative;
+	text-align: center;
+}
+
+.banner img {
+	width: 100%;
+}
+
+.banner h1 {
+	color: white;
+	position: absolute;
+	bottom: .3em;
+	font-style: italic;
+	width: 100%;
+	text-shadow: 1px 1px 5px black;
+}
+
