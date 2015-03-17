@@ -98,3 +98,22 @@ header h2 {
 	clear: left;
 	font-style: italic;
 }
+
+.goat {
+	text-align: center;
+	background-color: #222222;
+	padding: .5em;
+	color: white;
+}
+
+.goat img {
+	width: 40%;
+	float: left;
+	margin-left: 6.5%;
+}
+
+.goat p {
+	clear: left;
+	font-style: italic;
+	color: white;
+}
