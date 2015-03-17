@@ -82,3 +82,19 @@ header h2 {
 	text-shadow: 1px 1px 5px black;
 }
 
+.dragon {
+	text-align: center;
+	background-color: #e4c22a;
+	padding: .5em;
+}
+
+.dragon img {
+	width: 40%;
+	float: left;
+	margin-left: 6.5%;
+}
+
+.dragon p {
+	clear: left;
+	font-style: italic;
+}
