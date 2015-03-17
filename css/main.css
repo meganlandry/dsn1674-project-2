@@ -117,3 +117,22 @@ header h2 {
 	font-style: italic;
 	color: white;
 }
+
+.rooster {
+	text-align: center;
+	background-color: #bc0017;
+	padding: .5em;
+	color: white;
+}
+
+.rooster img {
+	width: 40%;
+	float: left;
+	margin-left: 6.5%;
+}
+
+.rooster p {
+	clear: left;
+	font-style: italic;
+	color: white;
+}
