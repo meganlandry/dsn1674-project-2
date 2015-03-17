@@ -136,3 +136,22 @@ header h2 {
 	font-style: italic;
 	color: white;
 }
+
+.ox {
+	text-align: center;
+	background-color: #e4c22a;
+	padding: .5em;
+	color: black;
+}
+
+.ox img {
+	width: 40%;
+	float: left;
+	margin-left: 6.5%;
+}
+
+.ox p {
+	clear: left;
+	font-style: italic;
+	color: black;
+}
